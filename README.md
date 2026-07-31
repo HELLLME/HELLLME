@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**HELLLME/HELLLME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Helmi Khardani
 
-Here are some ideas to get you started:
+Web & Mobile Developer | Angular, TypeScript, .NET MVC / Web API  | Quadrilingual 🇸🇦 🇬🇧 🇫🇷 🇩🇪
+Interested in practical business applications, automotive 
+and emerging mobility technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently completing an M.Sc. in Digital Technologies in Germany
+and open to junior frontend, web or full-stack opportunities.
+
+## Core skills
+
+- Angular, TypeScript, RxJS, HTML, CSS
+- .NET MVC, .NET Web API, C#, SQL
+- REST APIs, responsive web applications, PWA
+- Ionic, Cordova, Git/GitHub
+- Agile workflows: Scrum, Taiga
+
+## Selected projects
+
+###  [Superette]([https://github.com/HELLLME/Superette](https://github.com/HELLLME/Superette))
+E-commerce PWA and SaaS MVP concept for stock automation.
+
+- Built the Angular frontend and .NET Web API backend
+- Added REST API integration and responsive workflows
+- Stack: Angular, TypeScript, .NET, SQL
+  
+###  [KarhbaTuneUp]([https://github.com/HELLLME/KarhbaTuneUp](https://github.com/HELLLME/KarhbaTuneUp))
+Automotive-oriented SaaS MVP built with .NET MVC.
+
+- Built a web application with ASP.NET MVC Razor Pages  
+- Developed database-driven features using Entity Framework Core  
+- Stack: ASP.NET Core, Razor Pages, Entity Framework Core, C#, SQL  
+
+## Current focus
+
+Building maintainable web products, expanding full-stack skills, 
+and exploring AI-enabled workflows. 
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/helmi-khardani-2139581b3](https://www.linkedin.com/in/helmi-khardani-2139581b3)
+- Email: helmikhardeni@gmail.com
