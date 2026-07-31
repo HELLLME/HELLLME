@@ -20,14 +20,14 @@ and open to junior frontend, web or full-stack opportunities.
 
 ## Selected projects
 
-###  Superette (https://github.com/HELLLME/Superette)
+###  [Superette](https://github.com/HELLLME/Superette)
 E-commerce PWA and SaaS MVP concept for stock automation.
 
 - Built the Angular frontend and .NET Web API backend
 - Added REST API integration and responsive workflows
 - Stack: Angular, TypeScript, .NET, SQL
   
-###   KarhbaTuneUp (https://github.com/HELLLME/KarhbaTuneUp))
+###   [KarhbaTuneUp](https://github.com/HELLLME/KarhbaTuneUp)
 Automotive-oriented SaaS MVP built with .NET MVC.
 
 - Built a web application with ASP.NET MVC Razor Pages  
